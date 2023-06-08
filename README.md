@@ -3,7 +3,7 @@
 
 Desenvolvimento de um Currciculum Vitae com base em HTML, CSS e Boostrap.
 
-## ✒️Autores 
+## ✒️Autor
 - [Felipe Zanardo](https://github.com/FelipeBZanardo)
 
 ## 📋Enunciado do Projeto
